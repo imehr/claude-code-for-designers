@@ -6,7 +6,7 @@
 **Version:** 1.0.0
 **Date:** May 2026
 **Pages:** 60
-**Words:** ~35,000
+**Words:** ~38,000
 
 ## About
 
