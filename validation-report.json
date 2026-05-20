@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T05:05:57.947Z",
+  "generatedAt": "2026-05-20T05:18:32.584Z",
   "pass": true,
   "totalPass": 57,
   "totalChecks": 57,
@@ -170,7 +170,7 @@
       {
         "name": "Expected book images preserved in HTML",
         "pass": true,
-        "detail": "98/49 image refs found; state/screenshots/image-catalog.json"
+        "detail": "98/49 image refs found; state/drafts image references"
       },
       {
         "name": "HTML images render correctly",
@@ -272,7 +272,7 @@
       {
         "name": "Expected book images preserved in ePub",
         "pass": true,
-        "detail": "49/49 image refs found; state/screenshots/image-catalog.json"
+        "detail": "49/49 image refs found; state/drafts image references"
       },
       {
         "name": "stylesheet.css present",
