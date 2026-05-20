@@ -240,10 +240,23 @@
   break-after: page;
 }
 
-h2.section-title {
-  string-set: chapter-title content();
+.book-page-content,
+.book-chapter[data-type="chapter"],
+.book-chapter[data-type="letter"],
+.book-chapter[data-type="appendix"] {
   page: chapter-first;
   break-before: right;
+}
+
+.book-page-content:first-of-type,
+.book-chapter[data-type="letter"]:first-of-type {
+  break-before: auto;
+}
+
+h1.chapter-title,
+h2.section-title {
+  string-set: chapter-title content();
+  break-after: avoid;
 }
 
 .back-page {
@@ -270,6 +283,10 @@ table {
   break-inside: avoid;
 }
 
+tr {
+  break-inside: avoid;
+}
+
 pre {
   break-inside: avoid;
 }
@@ -291,7 +308,15 @@ pre {
 }
 
 .compare {
+  display: block;
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+.compare-good,
+.compare-bad {
   break-inside: avoid;
+  margin-bottom: 10pt;
 }
 
 .diagram {

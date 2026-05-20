@@ -41,6 +41,22 @@ Mehran Mozaffari
 
 
 
+## Credits
+
+| Role | Credit |
+|------|--------|
+| Author | Mehran Mozaffari |
+| Editorial review | Multi-model AI review pipeline |
+| Technical reviewers | Claude Opus 4.6, Gemini 3.1 Pro |
+| Design and production | Agentic publishing pipeline (OpenCode) |
+
+## Contact the Author
+
+- Blog: [https://piazr.github.io/applied-ai/](https://piazr.github.io/applied-ai/)
+- GitHub: [https://github.com/imehr](https://github.com/imehr)
+
+For corrections, errata, or licensing inquiries, please open an issue on this repository or contact the author through the channels above.
+
 ## Version
 
 - **v0.1.0** — May 2026

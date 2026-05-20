@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T03:13:04.955Z",
+  "generatedAt": "2026-05-20T05:05:57.947Z",
   "pass": true,
   "totalPass": 57,
   "totalChecks": 57,
@@ -23,7 +23,7 @@
       {
         "name": "PDF file size > 0",
         "pass": true,
-        "detail": "16048.2 KB"
+        "detail": "19534.4 KB"
       },
       {
         "name": "PDF is valid (readable)",
@@ -53,7 +53,7 @@
       {
         "name": "PDF has pages",
         "pass": true,
-        "detail": "217 pages"
+        "detail": "191 pages"
       },
       {
         "name": "PDF page dimensions",
