@@ -2,6 +2,7 @@
 
 > A Designer's Guide to AI-Assisted Workflows · by Mehran Mozaffari
 
+![Claude Code for Designers cover](cover.png)
 
 Full breadth: Claude Code installation and setup, core concepts for non-developers, turning design ideas into working prototypes, generating and refining visual design, writing production frontend code, maintaining design systems, automating repetitive design tasks, collaborating with engineers using AI, real-world case studies, and future of AI-assisted design workflows
 
@@ -9,6 +10,7 @@ Full breadth: Claude Code installation and setup, core concepts for non-develope
 
 | Format | File |
 |--------|------|
+| Paged HTML Preview | [claude-code-for-designers-paged.html](claude-code-for-designers-paged.html) |
 | ePub | [claude-code-for-designers.epub](claude-code-for-designers.epub) |
 | HTML | [claude-code-for-designers.html](claude-code-for-designers.html) |
 | PDF | [claude-code-for-designers.pdf](claude-code-for-designers.pdf) |

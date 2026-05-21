@@ -10,6 +10,7 @@
 
 ### Artifacts
 
+- Paged HTML Preview: `claude-code-for-designers-paged.html`
 - ePub: `claude-code-for-designers.epub`
 - HTML: `claude-code-for-designers.html`
 - PDF: `claude-code-for-designers.pdf`
