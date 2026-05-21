@@ -33,9 +33,7 @@ product designers (UX/UI) who want to prototype, build, and automate design work
 | `CHANGELOG.md` | Version-by-version release notes |
 | `LICENSE.md` | Book license |
 | `cover.png` / `banner.png` | Public book artwork when available |
-| `assets/` | Public supporting assets |
-| `screenshots/` | Public screenshots used by the book |
-| `*.pdf` / `*.epub` / `*.html` | Published book artifacts |
+| `<slug>.pdf` / `<slug>.epub` / `<slug>.html` / `<slug>-paged.html` | Final published book artifacts |
 
 ## About the Author
 
