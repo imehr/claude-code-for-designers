@@ -6,6 +6,12 @@
 
 Full breadth: Claude Code installation and setup, core concepts for non-developers, turning design ideas into working prototypes, generating and refining visual design, writing production frontend code, maintaining design systems, automating repetitive design tasks, collaborating with engineers using AI, real-world case studies, and future of AI-assisted design workflows
 
+## Read Online
+
+[<img src="website-preview.png" alt="Claude Code for Designers website preview" width="720">](https://piazr.github.io/claude-code-for-designers/)
+
+Read the book online on the dedicated website: [piazr.github.io/claude-code-for-designers](https://piazr.github.io/claude-code-for-designers/). The web version is the best place to browse chapters, read in the browser, and share the book with others.
+
 ## Download
 
 | Format | File |
@@ -33,6 +39,7 @@ product designers (UX/UI) who want to prototype, build, and automate design work
 | `CHANGELOG.md` | Version-by-version release notes |
 | `LICENSE.md` | Book license |
 | `cover.png` | Public cover image generated from the same HTML cover used by the book artifacts |
+| `website-preview.png` | Screenshot of the dedicated book website linked from this README |
 | `<slug>.pdf` / `<slug>.epub` / `<slug>.html` / `<slug>-paged.html` | Final published book artifacts |
 
 ## About the Author
